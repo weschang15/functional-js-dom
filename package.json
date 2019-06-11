@@ -1,0 +1,25 @@
+{
+  "name": "functional-js-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weschang15/functional-js-dom.git"
+  },
+  "author": "Wesley Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weschang15/functional-js-dom/issues"
+  },
+  "homepage": "https://github.com/weschang15/functional-js-dom#readme"
+}
